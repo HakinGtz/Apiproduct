@@ -1,4 +1,5 @@
-[
+{
+    "products":[
     {
         "id": 1,
         "title" : "Cámara 1488HD Stryker para endoscopia",
@@ -48,3 +49,4 @@
         "cantidad": 6
     }
 ]
+}
